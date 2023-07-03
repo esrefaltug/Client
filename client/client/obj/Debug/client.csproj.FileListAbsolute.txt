@@ -1,0 +1,38 @@
+E:\my program\c#\a\desktop viewer\client\client\bin\Debug\client.exe.config
+E:\my program\c#\a\desktop viewer\client\client\bin\Debug\client.exe
+E:\my program\c#\a\desktop viewer\client\client\bin\Debug\client.pdb
+E:\my program\c#\a\desktop viewer\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\my program\c#\a\desktop viewer\client\client\obj\Debug\client.Form1.resources
+E:\my program\c#\a\desktop viewer\client\client\obj\Debug\client.Properties.Resources.resources
+E:\my program\c#\a\desktop viewer\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\my program\c#\a\desktop viewer\client\client\obj\Debug\client.exe
+E:\my program\c#\a\desktop viewer\client\client\obj\Debug\client.pdb
+E:\My Program\c#\desktop viewer\client\client\bin\Debug\client.exe.config
+E:\My Program\c#\desktop viewer\client\client\obj\Debug\client.exe
+E:\My Program\c#\desktop viewer\client\client\obj\Debug\client.pdb
+E:\My Program\c#\desktop viewer\client\client\bin\Debug\client.exe
+E:\My Program\c#\desktop viewer\client\client\bin\Debug\client.pdb
+E:\My Program\c#\desktop viewer\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\My Program\c#\desktop viewer\client\client\obj\Debug\client.Form1.resources
+E:\My Program\c#\desktop viewer\client\client\obj\Debug\client.Properties.Resources.resources
+E:\My Program\c#\desktop viewer\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\bin\Debug\client.exe.config
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\bin\Debug\client.exe
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\bin\Debug\client.pdb
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.Form1.resources
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.exe
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\client\client\obj\Debug\client.pdb
+C:\Users\esref\OneDrive\Masaüstü\client\client\bin\Debug\client.exe.config
+C:\Users\esref\OneDrive\Masaüstü\client\client\bin\Debug\client.exe
+C:\Users\esref\OneDrive\Masaüstü\client\client\bin\Debug\client.pdb
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.Form1.resources
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.exe
+C:\Users\esref\OneDrive\Masaüstü\client\client\obj\Debug\client.pdb
